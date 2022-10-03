@@ -1,12 +1,12 @@
-# NLW eSports - Exercicio em Casa
+# NLW eSports - Exercicio
 
 ![preview](./.github/preview.png)
 
 > Trilha explorer
 
-Projeto construído no evento Next Level Week da Rocketseat.
+Projeto Exercicio construído no evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](https://chiiico1303.github.io/NLWeSports-EeC/)
+[Clique aqui para acessar](https://chiiico1303.github.io/NLWeSports-Exercicio/)
 
 ## Tecnologias
 
